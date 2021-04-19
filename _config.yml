@@ -147,9 +147,6 @@ compress_html:
     envs: [development]
 
 exclude:
-  - vendor
-  - Gemfile
-  - Gemfile.lock
   - '*.gem'
   - '*.gemspec'
   - tools
@@ -158,8 +155,7 @@ exclude:
   - LICENSE
   - gulpfile.js
   - node_modules
-  - package.json
-  - package-lock.json
+  - '*.json'
 
 jekyll-archives:
   enabled: [categories, tags]
