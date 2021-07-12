@@ -43,12 +43,16 @@
   #post-wrapper & {
     line-height: 1.2;
     margin-bottom: 1rem;
+    font-weight: 700;
+    // border-bottom: 1px solid #999;
+    // padding-bottom: 5px;
   }
 }
 
 %anchor {
   padding-top: 3.5rem;
   margin-top: -2.5rem;
+  font-weight:900;
 }
 
 /* ---------- scss mixin --------- */
@@ -57,7 +61,7 @@
   text-decoration: none;
 }
 
-@mixin sidebar-links($color: rgba(255, 255, 255, 0.5)) {
+@mixin sidebar-links($color: rgba(0, 0, 0, 0.8)) {
   color: $color;
   transition: color 0.35s ease-in-out;
   user-select: none;
