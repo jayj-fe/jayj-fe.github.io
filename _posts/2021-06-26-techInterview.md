@@ -1,9 +1,9 @@
 ---
-title: Require.js 을 사용했던 프로젝트에 대한 회고
+title: 프론트엔드개발자 기술면접 대비(1)
 author: Jay.J
-date: 2019-02-10 18:44:39 +0900
+date: 2021-06-26 18:44:39 +0900
 categories: [javascript]
-tags: [javascript, AMD, require.js, Retrospect]
+tags: [javascript, AMD, require.js]
 math: true
 mermaid: true
 # image:
@@ -19,7 +19,7 @@ mermaid: true
 모든 페이지에서 불필요한 기능까지 전부 호출하는게 비효율적으로 느껴졌다.<br>
 <br>
 그렇기에 최근 알게 되었던 AMD/Require.js에 관심을 더욱 가지게 되었으며, <br>
-신규 프로젝트에 Require.js를 사용해보기 했다.<br>
+신규 프로젝트에 Require.js를 도입해보기 했다.<br>
 > <a href="/posts/AMD_requirejs/">AMD / Require.js에 대한 포스팅</a>
 
 <br>
@@ -108,7 +108,7 @@ require(['A', ..., 'Z'], function(A,...,Z){
 여러 모듈이 다양하게 사용된다거나 특정 페이지의 여러 기능이 동시에 들어가지 않아,<br>
 순서나 의존성에 대한 관리가 크게 필요하지 않았던 것 같다.<br>
 <br>
-그렇지만 새로운 걸 사용한다는 것 자체는 매우 흥미롭고 재밌는 경험이엿으며,<br>
+그렇지만 새로운 걸 도입한다는 것 자체는 매우 흥미롭고 재밌는 경험이엿으며,<br>
 의존 관계나 순서를 관리함에 있어서 꼭 필요하다고 생각이 들었다.<br>
 <br>
 조금 더 큰 프로젝트나 다양한 기능이 들어가는 프로젝트에서 사용해보려고 한다.

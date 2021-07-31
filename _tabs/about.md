@@ -7,7 +7,8 @@ order: 4
 안녕하세요? :)<br>
 현재 쇼핑몰 중심의 웹에이전시에서 퍼블리셔로 일하고 있습니다.<br>
 HTML, CSS, Javascript의 지식을 가지고 있으며, Front End Devloper로서 ES6+, Vue에 관심이 많습니다.<br>
-Vanilla JS, Vue에 대한 스터디 연락을 환영합니다. 😃
+Vanilla JS, Vue에 대한 스터디 연락을 환영합니다.<br>
+하단에 있는 메일주소로 메일을 보내주시면 빠른 시일내에 답장드리겠습니다. 😃
 
 <br>
 
@@ -16,7 +17,7 @@ Vanilla JS, Vue에 대한 스터디 연락을 환영합니다. 😃
 
 #### 위트플러스
 
-> 2017.2 ~<br>
+> 2017.2 ~ 현재<br>
 > 프론트엔드팀-팀장
 
 - Codeigniter 중심의 MVC패턴의 웹 페이지 구축
