@@ -8,7 +8,7 @@ order: 4
 현재 쇼핑몰 중심의 웹에이전시에서 퍼블리셔로 일하고 있습니다.<br>
 HTML, CSS, Javascript의 지식을 가지고 있으며, Front End Devloper로서 ES6+, Vue에 관심이 많습니다.<br>
 Vanilla JS, Vue에 대한 스터디 연락을 환영합니다.<br>
-하단에 있는 메일주소로 메일을 보내주시면 빠른 시일내에 답장드리겠습니다. 😃
+veat14@naver.com 로 메일을 보내주시면 빠른 시일내에 답장드리겠습니다. 😃
 
 <br>
 
