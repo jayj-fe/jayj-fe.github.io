@@ -3,7 +3,7 @@ title: GET과 POST 방식
 author: Jay.J
 date: 2020-09-28 17:44:39 +0900
 categories: [html]
-tags: [html]
+tags: [html, HTTP]
 math: true
 mermaid: true
 # image:
